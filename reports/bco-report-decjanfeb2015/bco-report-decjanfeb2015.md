@@ -362,11 +362,7 @@ were changed, with 21,944 lines added and 19,398 lines deleted.
 ![](stats-2015-01.png)
 ![](stats-2015-02.png)
 
-TK: update Feb with final results
-
 ## Expense Report
-
-TK: FIXME make sure this is still accurate as of March 1th
 
 ![](expenses.png)
 
@@ -385,6 +381,8 @@ Developer documentation     -2.614 684 15 BTC
 
 **New balance**              8.085 174 61 BTC
 ---------------------------------------------
+
+\newpage
 
 ## Next Quarter's Goals
 
@@ -459,7 +457,7 @@ their continued financial support of the site, and extend our heartfelt
 appreciation to the [15
 people](https://github.com/bitcoin/bitcoin.org/graphs/contributors?from=2014-12-01&to=2015-02-28&type=c)
 who contributed commits this quarter and the much larger number of
-people who provided valuable feedback in over 139 comments on pull
+people who provided valuable feedback in over 439 comments on pull
 requests and issues.
 
 ---
